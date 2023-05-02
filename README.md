@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development , machine learning and data analysis
 - 🌱 I’m currently Computer Science Engineering Student 
 - 📫 How to reach me 
-- my Linkedin profile
+- My Linkedin profile
 - https://www.linkedin.com/in/hichem-kallel/
-- my website profile 
+- My website profile 
 - https://hichem-1999.github.io/
